@@ -31,7 +31,7 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://gmlckd1213.tistory.com)]
+  [![Velog's GitHub stats](https://gmlckd1213.tistory.com)]https://gmlckd1213.tistory.com
   
 </div>
   
