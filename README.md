@@ -39,9 +39,12 @@
   https://gmlckd1213.tistory.com
   
 </div>
-  
+ 
+ 
 <br>
 
+만약 ipynb 파일이 안열린다면 해당 파일의 주소를 복사 후 <br>
+https://nbviewer.jupyter.org 에 넣어주세요!
 
 
 
