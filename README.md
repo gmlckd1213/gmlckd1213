@@ -39,7 +39,7 @@
  
 <br>
 
-만약 ipynb 파일이 안열린다면<br>
+만약 주피터파일이 안열린다면<br>
 https://nbviewer.jupyter.org 를 활용해주세요!
 
 <p align="center">
