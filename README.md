@@ -33,13 +33,17 @@
 <br>
 <div align="center" style="text-align:center">
   
-만약 주피터파일이 안열린다면<br>
-https://nbviewer.jupyter.org 를 활용해주세요!
-</div>
-<p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgmlckd1213&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  
-</p>
+
+<br>
+
+<h3>📚 BOJ Profile 📚</h3> <br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmlckd1213)](https://solved.ac/gmlckd1213/)
+
+<br>
+<h3>📚 Github Stats 📚</h3> <br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gmlckd1213)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
