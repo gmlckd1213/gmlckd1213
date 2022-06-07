@@ -36,11 +36,11 @@
 
 <br>
 
-<h3>📚 BOJ Profile 📚</h3> <br>
+<!-- <h3>📚 BOJ Profile 📚</h3> <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmlckd1213)](https://solved.ac/gmlckd1213/)
 
-<br>
+<br> -->
 <h3>📚 Github Stats 📚</h3> <br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gmlckd1213)](https://github.com/anuraghazra/github-readme-stats)
