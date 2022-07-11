@@ -27,8 +27,8 @@
 </p>
 
 <br>
-
- 
+<h4 align="center">🛠 Tech Blog 🛠</h3>
+https://gmlckd1213.tistory.com/
  
 <br>
 <div align="center" style="text-align:center">
